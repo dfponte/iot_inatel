@@ -1,0 +1,6 @@
+Essa aplicação irá medir a humidade do
+ar e ativar um Humidificador com um
+relé.
+
+O Sensor de humidade mede de 0-100% de Humidade.
+A ativação do Humidificar será quando a humidade for menor que 45%.
